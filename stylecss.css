@@ -14,8 +14,9 @@ font-size:20px;
 
 #homepage
 {
-  display: flex;
-  justify-content: center;
+  display: block;
+  margin: auto;
+  width: 50%;
 }
 
 #bioRight
