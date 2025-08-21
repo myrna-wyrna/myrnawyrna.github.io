@@ -21,7 +21,8 @@ font-size:20px;
 
 body{
 background-image: url(back.jpg);
-  font-family: "Kirang Haerang", system-ui
+  font-family: "Poppins", sans-serif;
+}
 }
 
 #main{
