@@ -12,11 +12,16 @@ font-size:20px;
   font-size:20px;
 }
 
-#homepage
-{
-  display: block;
-  margin: auto;
-  width: 50%;
+.image-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Space between images */
+}
+
+.image-row img {
+  width: 200px; /* Set your desired width */
+  height: auto;
 }
 
 #bioRight
