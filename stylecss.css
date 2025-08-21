@@ -6,3 +6,30 @@ body{
 /*background-image: url(back.jpg);*/
 font-family: 'Fascinate', system-ui;
 }
+
+/*Border Button thing */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fcd81a;
+}
+
+section{
+background-color: white;
+}
+
+/* I think this makes footer */
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-size:18;
+}
+#footerp{
+  font-size:14;
+}
+
