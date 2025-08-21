@@ -21,8 +21,11 @@ font-size:20px;
 
 body{
 /*background-image: url(back.jpg);*/
-font-family: 'Dancing Script', cursive;
-}
+.fascinate-regular {
+  font-family: "Fascinate", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}}
 
 #main{
 margin-left:10%;
@@ -35,7 +38,7 @@ font-size:30px;
 
 #headertext{
   text-align:center;
-  color:#e4021c;
+  color:#a5d189;
 }
 
 #mainpic{
@@ -70,7 +73,8 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: #e4021c;
+  background-color: #a5d189;
+  
 }
 
 li.dropdown {
