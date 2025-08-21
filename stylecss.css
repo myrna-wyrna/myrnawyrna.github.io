@@ -1,9 +1,9 @@
 #center{
-Text-align:center;
+text-align:center;
 }
 
 #center2{
-Text-align:center;
+text-align:center;
 font-size:20px;
 }
 
@@ -28,7 +28,6 @@ font-size:20px;
 body{
 background-image: url(back.jpg);
   font-family: "Poppins", sans-serif;
-}
 }
 
 #main{
