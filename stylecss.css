@@ -10,6 +10,7 @@ display: block;
 
 #tape{
 width: 25%
+margin: 0;
 }
 
 #main .text-padding {
