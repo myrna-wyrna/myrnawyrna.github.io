@@ -11,6 +11,7 @@ display: block;
 #main .text-padding {
   padding: 0 !important;
   margin: 0 !important;
+  text-size: 20 !important;
 }
 
 #center2{
@@ -83,6 +84,7 @@ li {
 }
 
 li a, .dropbtn {
+  font-size:30px;
   display: inline-block;
   color: black;
   text-align: center;
