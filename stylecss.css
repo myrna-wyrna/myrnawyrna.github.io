@@ -8,8 +8,9 @@ display: block;
   width: 100%;
 }
 
-.text-padding{
-  margin: 5px 0 !important;
+#main .text-padding {
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
 #center2{
