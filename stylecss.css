@@ -8,6 +8,13 @@ display: block;
   width: 100%;
 }
 
+#tape{
+
+}
+img{
+width: 25%
+}
+
 #main .text-padding {
   padding: 0 !important;
   margin: 0 !important;
