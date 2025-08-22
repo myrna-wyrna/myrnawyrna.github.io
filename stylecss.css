@@ -8,9 +8,8 @@ display: block;
   width: 100%;
 }
 
-about{
-padding:5px;
-line-height:.5;
+p.small {
+  line-height: 0.7;
 }
 
 #center2{
