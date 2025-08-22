@@ -28,16 +28,6 @@ font-size:20px;
   font-size:20px;
 }
 
-#about-container{
-    width: 400px;
-    background: yellow;
-}
-#about-floated{
-    float: left;
-    width: 150px;
-    background: red;
-}
-
 .image-row {
   display: flex;
   justify-content: center;
