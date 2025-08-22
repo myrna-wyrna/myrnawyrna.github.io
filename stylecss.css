@@ -50,7 +50,7 @@ background-image: url(back.jpg);
 #main{
 margin-left:10%;
 margin-right:10%;
-background-color:white;
+background-color:#f9f9f9;
 }
 
 #left{float:left;}
@@ -125,7 +125,7 @@ li.dropdown {
 }
 
 #code{
-  background-color: white;
+  background-color:#f9f9f9;
   width: 49%;
   height:450px;
   overflow: scroll;
@@ -134,7 +134,7 @@ li.dropdown {
 }
 
 #coder{
-  background-color: white;	
+  background-color:#f9f9f9;	
   width: 49%;
   height:450px;
   overflow: scroll;
@@ -157,7 +157,7 @@ li.dropdown {
 }
 
 section{
-background-color: white;
+background-color: #f9f9f9;
 }
 
 .footer-content{
