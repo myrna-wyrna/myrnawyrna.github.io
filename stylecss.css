@@ -9,7 +9,7 @@ display: block;
 }
 
 .text-padding{
-padding:5px !important;
+  margin: 5px 0 !important;
 }
 
 #center2{
