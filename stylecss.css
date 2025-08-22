@@ -28,11 +28,11 @@ font-size:20px;
   font-size:20px;
 }
 
-#container{
+#about-container{
     width: 400px;
     background: yellow;
 }
-#floated{
+#about-floated{
     float: left;
     width: 150px;
     background: red;
