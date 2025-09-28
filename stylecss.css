@@ -35,10 +35,10 @@ font-size:20px;
   gap: 20px; /* Space between images */
 }
 
-/*.image-row img {
+.image-row img {
   width: 200px; /* Set your desired width */
-  /*height: auto;
-}*/
+  /*height: auto;*/
+}
 
 .image-row p {
   display: flex;
