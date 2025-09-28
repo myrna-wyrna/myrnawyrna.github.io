@@ -40,6 +40,18 @@ font-size:20px;
   /*height: auto;
 }*/
 
+.image-row p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.picture-frame img{
+  height: 402px !important;
+  object-fit: cover; /* For images */
+}
+}
+
 #bioRight
 {
   float:right;
