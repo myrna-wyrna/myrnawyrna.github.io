@@ -46,11 +46,6 @@ font-size:20px;
   align-items: center;
 }
 
-.picture-frame img{
-  height: 402px !important;
-  object-fit: cover; /* For images */
-}
-}
 
 #bioRight
 {
