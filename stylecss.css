@@ -46,6 +46,36 @@ font-size:20px;
   align-items: center;
 }
 
+.frame-container {
+  position: relative;
+  display: inline-block;
+}
+
+.frame-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-repeat: no-repeat; 
+  background-position: center;
+  pointer-events: none; /* Allows clicking through to the content */
+  z-index: 10;
+}
+
+.frame-1 .frame-overlay {
+  background-image: url('Scratch_Picture_Frame.png');
+}
+
+.frame-2 .frame-overlay {
+  background-image: url('Youtube_Picture_Frame.png');
+}
+
+.frame-3 .frame-overlay {
+  background-image: url('Art_Fight_Picture_Frame.png');
+}
+
 
 #bioRight
 {
