@@ -58,23 +58,27 @@ font-size:20px;
   left: -5%;
   width: 110%;
   height: 110%;
-  background-size: 100% 100%;
   background-repeat: no-repeat; 
   background-position: center;
   pointer-events: none; /* Allows clicking through to the content */
   z-index: 10;
+  padding: 30 !important;
 }
 
 .frame-1 .frame-overlay {
   background-image: url('Scratch_Picture_Frame.png');
+  background-size: 100% 100%;
 }
 
 .frame-2 .frame-overlay {
   background-image: url('YouTube_Picture_Frame.png');
+  background-size: 120% 120%;
+
 }
 
 .frame-3 .frame-overlay {
   background-image: url('Art_Fight_Picture_Frame.png');
+  background-size: 100% 100%;
 }
 
 
