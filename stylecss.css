@@ -54,15 +54,15 @@ font-size:20px;
 
 .frame-overlay {
   position: absolute;
-  top: -10%;
-  left: -10%;
+  top: -5%;
+  left: -5%;
   width: 110%;
   height: 110%;
   background-repeat: no-repeat; 
   background-position: center;
   pointer-events: none; /* Allows clicking through to the content */
   z-index: 10;
-  gap: 50px !important;
+  padding: 50px !important;
 }
 
 .frame-1 .frame-overlay {
