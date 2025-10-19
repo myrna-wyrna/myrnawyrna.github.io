@@ -55,7 +55,7 @@ font-size:20px;
 .frame-overlay {
   position: absolute;
   top: -10%;
-  left: -15%;
+  left: -10%;
   width: 90%;
   height: 90%;
   background-repeat: no-repeat; 
