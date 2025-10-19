@@ -96,6 +96,11 @@ font-size:20px;
   padding:5px;
 }
 
+	#bio-container{
+    float:right;
+  }
+
+
 body{
 background-image: url(back.jpg);
   font-family: "Poppins", sans-serif;
