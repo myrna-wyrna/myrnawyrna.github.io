@@ -49,7 +49,7 @@ font-size:20px;
 .frame-container {
   position: relative;
   display: inline-block;
-  overlay: visible;
+  overflow: visible;
 }
 
 .frame-overlay {
