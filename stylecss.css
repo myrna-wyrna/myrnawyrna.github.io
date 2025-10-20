@@ -107,6 +107,8 @@ font-size:20px;
 
 #bioLeft
 {
+  width: 300px;
+  height: auto;
   float:left;
   padding:5px;
 }
