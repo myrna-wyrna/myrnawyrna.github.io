@@ -90,15 +90,11 @@ font-size:20px;
 }
 
 
-#bioRight
+#bioLeft
 {
-  float:right;
+  float:left;
   padding:5px;
 }
-
-	#bio-container{
-    float:right;
-  }
 
 
 body{
