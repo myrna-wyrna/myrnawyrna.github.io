@@ -75,8 +75,6 @@ font-size:20px;
 }
 
 .frame-1 .frame-overlay {
-  top: -15%;
-  left: -10%;
   width: 96.96%
   height: 96.96%
   background-image: url('Scratch_Picture_Frame.png');
