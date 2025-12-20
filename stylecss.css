@@ -77,8 +77,8 @@ font-size:20px;
 .frame-1 .frame-overlay {
   top: -15%;
   left: -10%;
-  width: 90%;
-  height: 90%;
+  width: 100%;
+  height: 100%;
   background-image: url('Scratch_Picture_Frame.png');
   background-size: 100% 100%;
   padding: 60px !important;
@@ -91,7 +91,7 @@ font-size:20px;
   height: 100%;
   background-image: url('YouTube_Picture_Frame.png');
   background-size: 90% 90%;
-  padding: 60px !important;
+  padding: 10px !important;
 }
 
 .frame-3 .frame-overlay {
