@@ -11,6 +11,13 @@
   font-style: normal;
 }
 
+.modak-regular {
+  font-family: "Modak", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 #center{
 text-align:center;
 }
@@ -75,8 +82,8 @@ font-size:20px;
 }
 
 .frame-1 .frame-overlay {
-  width: 96.96%
-  height: 96.96%
+  width: 100%
+  height: 100%
   background-image: url('Scratch_Picture_Frame.png');
   background-size: 100% 100%;
   padding: 60px !important;
@@ -111,6 +118,10 @@ font-size:20px;
   padding:5px;
 }
 
+h3{
+font-family: "Mansalva", sans-serif;
+font-family: "Modak", system-ui;
+}
 
 body{
 background-image: url(back.jpg);
