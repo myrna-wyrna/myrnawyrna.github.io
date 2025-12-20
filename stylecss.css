@@ -85,8 +85,8 @@ font-size:20px;
 }
 
 .frame-2 .frame-overlay {
-  top: -10%;
-  left: -10%;
+  top: -15%;
+  left: -15%;
   width: 100%;
   height: 100%;
   background-image: url('YouTube_Picture_Frame.png');
